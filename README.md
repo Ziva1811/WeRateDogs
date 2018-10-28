@@ -1,6 +1,7 @@
-# WeRateDogs
+# WeRateDogs_data-wrangling
 
 Introduction:
+
 WeRateDogs is a very popular Twitter account with over 4 million followers and has received international media coverage. WeRateDogs gained its popularity by rating people’s dogs with a good-natured comment about the dog.
 
 
