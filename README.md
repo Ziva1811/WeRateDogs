@@ -18,11 +18,13 @@ Visualizations
 
 
 Data Assessing:
+
 Data was assessed visually as well as programmatically.  Through pandas info(), head(),describe() methods I was able to detect some quality and tideness issues like many tweets were retweeted, dataframe contained the faulty names,there were several empty values in in_reply_to_status, in_reply_to_user_id, retweeted_status_id, retweeted_status_user_id, retweeted_status_timestamp.
 
 
 
 Data Cleaning:
+
 The copy of all the data frame were created as “df_clean”, “img_pred_clean”, tweet_info_clean.
 Retweets were removed and tweets which did not include images were also removed because
 those tweets were not dog ratings.
